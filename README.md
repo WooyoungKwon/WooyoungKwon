@@ -25,13 +25,10 @@
     <div align= "center"> <a href=mailto:rnjsdndud0091@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnjsdndud0091@gmail.com"> </a>
          <a href=https://kwyjjang.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kwyjjang.tistory.com"> </a>
           </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooyoungKwon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
     </div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooyoungKwon&theme=algolia&show_icons=true)
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=WooyoungKwon&bg_color=60,caf0fe,00c7fc&title_color=371a94&text_color=371a94"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooyoungKwon&layout=compact&bg_color=60,caf0fe,00c7fc&title_color=371a94&text_color=371a94"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=WooyoungKwon&theme=dark&show_icons=true" alt="Anurag's GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooyoungKwon&layout=compact&bg_color=60,caf0fe,00c7fc&title_color=371a94&text_color=371a94"
            /> </div> 
     </div>
+</div>
     
