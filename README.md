@@ -11,10 +11,18 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📦 Repository</h2>
     <br />
     <div style="margin: 0 auto; text-align: center;" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trend-Now&repo=Back-end&cache_seconds=86400&theme=prussian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinminseok&repo=blaybus-hair&cache_seconds=86400&theme=synthwave">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Software-BootCamp&repo=2023KEB_Murado-Ssul-Ja&cache_seconds=86400&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WooyoungKwon&repo=Baekjoon&cache_seconds=86400&theme=vue-dark">
+        <a href="https://github.com/Trend-Now/Back-end">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trend-Now&repo=Back-end&theme=prussian">
+        </a>
+        <a href="https://github.com/WooyoungKwon/Baekjoon">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WooyoungKwon&repo=Baekjoon&theme=vue-dark">
+        </a>
+        <a href="https://github.com/K-Software-BootCamp/2023KEB_Murado-Ssul-Ja">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Software-BootCamp&repo=2023KEB_Murado-Ssul-Ja&theme=tokyonight">
+        </a>
+        <a href="https://github.com/kimsr0429/DDBB">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimsr0429&repo=DDBB&theme=synthwave">
+        </a>
     </div>
 </div>
 
