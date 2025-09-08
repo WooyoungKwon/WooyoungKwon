@@ -12,8 +12,8 @@
     <br />
     <div style="margin: 0 auto; text-align: center;" align="center">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trend-Now&repo=Back-end&cache_seconds=86400&theme=prussian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WooyoungKwon&repo=blaybus-hair&cache_seconds=86400&theme=synthwave">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WooyoungKwon&repo=2023KEB_Murado-Ssul-Ja&cache_seconds=86400&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinminseok&repo=blaybus-hair&cache_seconds=86400&theme=synthwave">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Software-BootCamp&repo=2023KEB_Murado-Ssul-Ja&cache_seconds=86400&theme=tokyonight">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WooyoungKwon&repo=Baekjoon&cache_seconds=86400&theme=vue-dark">
     </div>
 </div>
