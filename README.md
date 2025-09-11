@@ -73,7 +73,6 @@
         <a href="https://kwyjjang.tistory.com">
             <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kwyjjang.tistory.com">
         </a>
-        <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FWooyoungKwon%2FWooyoungKwon?color=blue&label=&size=small" alt="" /></a>
     </div>
     <br />
 </div>
